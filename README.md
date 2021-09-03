@@ -33,3 +33,6 @@
 
 ## 6. 어플 화면
 ![img](https://user-images.githubusercontent.com/71540277/131960475-4aa328cf-513e-406d-8373-fcd1901d752e.jpg)
+
+## 7. 어플 시연 영상
+https://www.youtube.com/watch?v=jQ8rLKCp7ak
