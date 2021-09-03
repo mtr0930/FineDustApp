@@ -15,13 +15,13 @@
 ## 3. 사용한 라이브러리 & 툴
 
    - **기상청 API 연동하는데 사용한 라이브러리**
-      **Retrofit2, Moshi**
+      **-> Retrofit2, Moshi**
   
    - **로그인 기능 구현을 위한 라이브러리**
-      **Firebase**
+      **-> Firebase**
   
    - **어플 UI 개발위한 툴**
-      **Adobe XD**
+      **-> Adobe XD**
 
 ## 4. GPS 기능 설명
 
