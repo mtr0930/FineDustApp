@@ -1,9 +1,9 @@
 # 미세먼지 공유 어플
 
-## 1. 개발 환경
+## 1. 개발 환경 및 IDE
 
-   - Windows 10
-   - Android Studio
+   - **Windows 10**
+   - **Android Studio(Kotlin)**
 
 ## 2. 어플의 기능
 
@@ -14,14 +14,14 @@
 
 ## 3. 사용한 라이브러리 & 툴
 
-      - 기상청 API 연동하는데 사용한 라이브러리
-        Retrofit2, Moshi
+   - 기상청 API 연동하는데 사용한 라이브러리
+      Retrofit2, Moshi
   
-      - 로그인 기능 구현을 위한 라이브러리
-        Firebase
+   - 로그인 기능 구현을 위한 라이브러리
+      Firebase
   
-      - 어플 UI 개발위한 툴
-        Adobe XD
+   - 어플 UI 개발위한 툴
+      Adobe XD
 
 ## 4. GPS 기능 설명
 
